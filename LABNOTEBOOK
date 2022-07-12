@@ -1,0 +1,15 @@
+TIME:20220712161624
+
+So, in order to learn go, and do an open-project app, I decided to implement the "interactive" cli thingy
+modern mc implemented in go.
+
+# Hello world - curses
+I added the import  "github.com/gbin/goncurses" but how to add it go.mod?
+and how to install these dependencies?
+let see if this [doc](https://go.dev/doc/modules/managing-dependencies) can help
+
+
+
+
+
+
